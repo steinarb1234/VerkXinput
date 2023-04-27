@@ -1,9 +1,11 @@
-{
-    'SOFR O/N'  :   'USD',
-    'BGCR O/N'  :   'USD',
-    'EFFR O/N'  :   'USD',
-    'TGCR O/N'  :   'USD',
-    'OBFR O/N'  :   'USD',
-    'REIBOR O/N':   'ISK',
-    'ESTR O/N'  :   'EUR'
-}
+[
+    {
+        'SOFR O/N'  :   'USD',
+        'BGCR O/N'  :   'USD',
+        'EFFR O/N'  :   'USD',
+        'TGCR O/N'  :   'USD',
+        'OBFR O/N'  :   'USD',
+        'REIBOR O/N':   'ISK',
+        'ESTR O/N'  :   'EUR'
+    }
+]
