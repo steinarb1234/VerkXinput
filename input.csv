@@ -14,7 +14,7 @@ error_no_ratename;2022-12-26;USD;122222221,1;;-100
 error_no_bp;2022-12-26;USD;0;TGCR O/N;
 error_early_sofr;2018-04-01;USD;0,12530175;SOFR O/N;200
 error_early_effr;2000-07-02;ISK;-2030000;REIBOR O/N;0
-error_early_bgcr;2018-04-01;USD;9900;9900;BGCR O/N;0
+error_early_bgcr;2018-04-01;USD;9900;BGCR O/N;0
 error_early_obfr;2016-02-01;USD;125308640,8;OBFR O/N;-100
 error_early_tgcr;2019-04-01;USD;0;TGCR O/N;100
 error_early_reibor;2011-02-03;ISK;0,12345;REIBOR O/N;200
