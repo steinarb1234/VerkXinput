@@ -12,7 +12,7 @@ error_no_currency;2022-12-25;;0,12345;EFFR O/N;200
 error_no_nominal;2022-12-26;USD;;SOFR O/N;0
 error_no_ratename;2022-12-26;USD;122222221,1;;-100
 error_no_bp;2022-12-26;USD;0;TGCR O/N;
-error_early_sofr;2018-04-01;USD;0,12530175;SOFR O/N;200
+bank1;2018-04-01;USD;0,12530175;SOFR O/N;200
 error_early_bgcr;2018-04-01;USD;9900;BGCR O/N;0
 error_early_tgcr;2019-04-01;USD;0;TGCR O/N;100
 error_early_estr;2019-09-01;EUR;-2030000;ESTR O/N;0
