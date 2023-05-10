@@ -1,4 +1,4 @@
-﻿CallAccountShortName;ExecDate;Currency;Nominal;vextir;bp
+CallAccountShortName;ExecDate;Currency;Nominal;vextir;bp
 error_inline_bp;2022-12-25;USD;-2000000;SOFR O/N+50;0
 error_illegal_currency;2022-12-25;USSR;10000;BGCR O/N;0
 error_strange_bp;2022-12-25;USD;123456789;EFFR O/N;-7000
