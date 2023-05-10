@@ -1,4 +1,4 @@
-﻿CallAccountShortName;ExecDate;Currency;Nominal;vextir;bp
+CallAccountShortName;ExecDate;Currency;Nominal;vextir;bp
 bank1;2018-01-01;USD;-2000000;SOFR O/N;0
 bank2;2018-01-01;USD;10000;BGCR O/N;0
 bank3;2018-01-01;USD;123456789;EFFR O/N;-100
